@@ -3,3 +3,5 @@
 #day1 cli todolist manager
 #day2 unit-converter
 #day3 password-generator
+#day4 simple-api
+#day5 money-making-machine
