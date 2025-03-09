@@ -71,7 +71,11 @@ st.markdown(
 )
 
 # App title
-st.title("Mood Tracker")
+st.title("Mood Tracker - Built by Faizee")
+
+st.markdown("### This app is built with ❤️ by Faizee")
+
+
 
 today = datetime.date.today()
 
