@@ -1,0 +1,9 @@
+[
+    {
+        "title": "Python is better than Typescript",
+        "author": "abc says",
+        "year": "2025",
+        "genre": "news",
+        "read": false
+    }
+]
