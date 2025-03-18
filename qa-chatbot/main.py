@@ -1,5 +1,5 @@
 import os  # Importing os to access environment variables
-import chainlit as cl  # Importing Chainlit for building the chatbot interface
+import chainlit as cl  # type: ignore # Importing Chainlit for building the chatbot interface
 import google.generativeai as genai  # Importing Google Generative AI for Gemini API
 from dotenv import load_dotenv  # Importing dotenv to load environment variables
 
